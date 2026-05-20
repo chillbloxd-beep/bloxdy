@@ -1,4 +1,4 @@
-document.title = "Unbloxd";
+document.title = "Bloxdy";
 
 document.documentElement.style.margin = "0";
 document.documentElement.style.padding = "0";
@@ -42,8 +42,7 @@ style.textContent = `
 
   iframe {
     position: fixed !important;
-    top: 0 !important;
-    left: 0 !important;
+    inset: 0 !important;
     width: 100vw !important;
     height: 100vh !important;
     border: none !important;
